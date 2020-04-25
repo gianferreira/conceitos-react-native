@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img alt="React Native" src="https://github.com/gianferreira/repositorioteste/blob/master/reactnative.png" width="120px"/>
+  <img alt="React Native" src="https://github.com/gianferreira/gostack11-mobile/blob/master/reactnative.png" width="120px"/>
 </h3>
 
 <h1 align="center">
@@ -33,6 +33,7 @@ Na primeira vez que for utilizar, faça um clone deste repositório:
 ```bash
 $ git clone https://github.com/gianferreira/gostack11-mobile
 ```
+
 Dentro da pasta do seu repositório criado, utilize o comando abaixo para instalar as dependências da aplicação:
 
 ```bash
