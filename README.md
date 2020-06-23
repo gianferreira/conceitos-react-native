@@ -1,37 +1,37 @@
 <h3 align="center">
-  <img alt="React Native" src="https://github.com/gianferreira/gostack11-mobile/blob/master/reactnative.png" width="120px"/>
+  <img alt="React Native" src="https://github.com/gianferreira/conceitos-react-native/blob/master/readme-react-native.png" width="120px"/>
 </h3>
 
 <h1 align="center">
   Mobile com React Native
 </h1>
 
-<p align="center">Primeiros conceitos do React Native aplicados na construção de uma aplicação mobile.</p>
+<p align="center">Primeiros conceitos de React Native aplicados na construção de uma aplicação mobile.</p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gianferreira/gostack11-mobile">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gianferreira/gostack11-mobile">
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/gianferreira/gostack11-mobile">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gianferreira/conceitos-react-native">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gianferreira/conceitos-react-native">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/gianferreira/conceitos-react-native">
 </p>
 
 ## Sobre:
 
-Aplicação mobile simples em React Native que realiza o cadastro e manutenção de projetos. A aplicação consome uma <a href="https://github.com/gianferreira/gostack11-backend"><b> API </b></a> construída em Node.js. 
+Aplicação mobile desenvolvida em React Native que realiza o cadastro e manutenção de projetos. A aplicação consome uma <a href="https://github.com/gianferreira/conceitos-nodejs"><b> API </b></a> construída em Node.js. 
 
 ## Tecnologias utilizadas:
 
-- React Native
-- Babel
-- Axios
-- Eslint
-- Yarn
+- react native
+- babel
+- axios
+- eslint
+- yarn
 
 ## Instalação e execução:
 
 Na primeira vez que for utilizar, faça um clone deste repositório:
 
 ```bash
-$ git clone https://github.com/gianferreira/gostack11-mobile
+$ git clone https://github.com/gianferreira/conceitos-react-native
 ```
 
 Dentro da pasta do seu repositório criado, utilize o comando abaixo para instalar as dependências da aplicação:
@@ -61,6 +61,6 @@ yarn start
 <blockquote align="center">
   Este projeto foi desenvolvimento durante o 
     <a href="https://rocketseat.com.br/gostack">
-      Gostack 11.0 da RocketSeat
+      Bootcamp da RocketSeat
     </a>
 </blockquote>
